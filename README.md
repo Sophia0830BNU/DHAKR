@@ -1,4 +1,4 @@
-# DHAKR: Learning Deep Hierarchical Attention-based Kernelized Representations for Graph Classification
+# [AAAI 2025] DHAKR: Learning Deep Hierarchical Attention-based Kernelized Representations for Graph Classification
 
 <img src=".\Framework.png">  
 
