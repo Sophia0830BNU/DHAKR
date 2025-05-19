@@ -22,7 +22,7 @@ bash run.sh
 ## Citing
 
 If you find this work is helpful to your research, please consider citing our paper:
-\begin{verbatim}
+```bibtex
 @inproceedings{DBLP:conf/aaai/Qian0C0LDH25,
   author       = {Feifei Qian and
                   Lu Bai and
@@ -40,4 +40,4 @@ If you find this work is helpful to your research, please consider citing our pa
   pages        = {19995--20003},
   year         = {2025}
 }
-\end{verbatim}
+```
